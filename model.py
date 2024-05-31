@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from model_utils import *
+from model_util import *
 
 class TIP(nn.Module):
     def __init__(self, use_attention=True):
