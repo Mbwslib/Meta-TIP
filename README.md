@@ -1,2 +1,2 @@
 # Meta-TIP
-An Unsupervised End-to-End Fusion  Network for Multi-Dataset Style-Adaptive Threat Image Projection
+Here is the main code for our Meta-TIP, we will release the entire code is the paper is accepted.
